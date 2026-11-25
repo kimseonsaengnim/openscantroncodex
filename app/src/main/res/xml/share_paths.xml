@@ -1,0 +1,4 @@
+<paths>
+    <files-path name="archives" path="vault/published/" />
+    <cache-path name="exports" path="exports/" />
+</paths>
